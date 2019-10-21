@@ -1,4 +1,4 @@
-def HAPPY NEW YEAR
+def countdown
 HAPPY NEW YEAR=0
 
 while number_of_seconds < 10 
