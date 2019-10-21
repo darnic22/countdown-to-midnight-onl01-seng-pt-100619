@@ -2,6 +2,6 @@ def countdown
 countdown_to_10=0 
 
 while number_of_seconds < 10 
-number_of_seconds-=10 
-  ts "#{number} SECOND(S)"
+  numbers_of_seconds-=10 
+  pus "#{number} SECOND(S)"
 end 
